@@ -1,3 +1,3 @@
-# Larvel (PHP & MySQL)
+# Angular
 
-Using a PHP Framework called Laravel framework multiuser web application with ‘dynamic’ content containing text and images (examples: reviews, recipes, life hacks, events, POI, etc.).
+Angular front-end of a web application that has to do with the management of a “to-do” list.
